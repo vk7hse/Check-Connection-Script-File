@@ -1,7 +1,7 @@
 # check-connection
 This is a script file for ASL 3 to check for a specific node connection and if it is not present the server will re-connect to it.
 
-To get the script file ownloaded onto your node just use this command:
+To get the script file downloaded onto your node just use this command:
 ```
 https://raw.githubusercontent.com/KD5FMU/Check-Connection-Script-File/refs/heads/main/check_connection.sh
 ```
