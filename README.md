@@ -1,4 +1,5 @@
-# check-connection
+# Check Connection Script File for AllStarLink Version 3
+
 This is a script file for ASL 3 to check for a specific node connection and if it is not present the server will re-connect to it.
 
 As I have said before, I like to put all of my script files in the /etc/asterisk/local folder, But ASL3 does not come with that folder by default so you can create the directory by running this command:
