@@ -7,10 +7,15 @@ As I have said before, I like to put all of my script files in the /etc/asterisk
 sudo mkdir /etc/asterisk/local
 ```
 
+Once the folder has been created we need to go to it by using this command:
+```
+cd /etc/asterusk/local
+```
+
 
 To get the script file downloaded onto your node just use this command:
 ```
-https://raw.githubusercontent.com/KD5FMU/Check-Connection-Script-File/refs/heads/main/check_connection.sh
+sudo wget https://raw.githubusercontent.com/KD5FMU/Check-Connection-Script-File/refs/heads/main/check_connection.sh
 ```
 
 
