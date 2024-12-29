@@ -10,7 +10,7 @@ sudo mkdir /etc/asterisk/local
 
 Once the folder has been created we need to go to it by using this command:
 ```
-cd /etc/asterusk/local
+cd /etc/asterisk/local
 ```
 
 
