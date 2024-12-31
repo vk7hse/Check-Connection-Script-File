@@ -1,3 +1,5 @@
+![CheckConn Logo](https://github.com/KD5FMU/Check-Connection-Script-File/blob/main/CheckConn1%20.png)
+
 # Check Connection Script File for AllStarLink Version 3
 
 This is a script file for ASL 3 to check for a specific node connection and if it is not present the server will re-connect to it.
