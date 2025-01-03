@@ -26,7 +26,7 @@ Once the file has been downloaded we need to make a few customizations. For exam
 sudo nano check_connection.sh
 ```
 
-Remove the X's on the line that starts with "MY_NODE" and replace them with your node number. Then remove the X's on the line beginning with TARGET_NODE and replace them withe the node number you wish to stay connected to. Then save the file (if you are using nano then hit CTL + X and then Y to save and enter to exit). 
+Remove the X's on the line that starts with "MY_NODE" and replace them with your node number. Then remove the X's on the line beginning with TARGET_NODE and replace them with the node number you wish to stay connected to. Then save the file (if you are using nano then hit CTL + X and then Y to save and enter to exit). 
 
 Now the script file needs to be made executable, this can be done with this command:
 ```
