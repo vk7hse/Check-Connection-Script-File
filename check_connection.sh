@@ -4,7 +4,7 @@
 # This script file was created by Freddie Mac - KD5FMU your Ham Radio Crusader
 # with the help of ChatGPT. You can look us up at http://www.youtube.com/@hamradiocrusader
 
-# Set your AllStarLink node number and the target node number you want to check to the connection
+# Set your AllStarLink node number and the target node number you want to check the connection
 MY_NODE=XXXXXX
 TARGET_NODE=XXXXXX
 
